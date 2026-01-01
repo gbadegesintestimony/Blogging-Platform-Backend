@@ -1,0 +1,19 @@
+.env
+.env.local
+*.log
+.DS_Store
+bin/
+vendor/
+*.exe
+*.dll
+*.so
+*.dylib
+# Go build
+/build
+
+# IDEs
+.vscode/
+.idea/
+
+# Node
+node_modules/
